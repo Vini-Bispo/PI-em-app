@@ -63,7 +63,13 @@
 
 
 /*AREA DE CONTEUDO*/
-
+    /*Geral*/
+    #area-conteudo{
+        font-size: 1.1rem;
+        max-width: 80vw;
+        text-align: center;
+        margin: 30px auto;
+    }
 
 /*FOOTER*/
     /*Geral*/
